@@ -2,11 +2,7 @@ Let us begin with the definition of derivatives
 via the Difference Quotient(DQ). It is expressed 
 as follows:
 
-![dq](http://www.sciweavers.org/tex2img.php?
-eq=f%27%28x%29%20%3D%20%20%5Clim_%7Bh%20%5C
-rightarrow%200%7D%20%20%5Cfrac%7Bf%28x%2Bh%29%20-
-%20f%28x%29%7D%7Bh%7D&bc=White&fc=Black&im=jpg&fs
-=12&ff=arev&edit=0)
+![dq](http://bit.ly/1DWDVHZ)
 
 Simply put, you take the function plus an 
 infinitely small number h, subtract it from 
